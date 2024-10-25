@@ -9,7 +9,7 @@ Ce projet consiste à concevoir une page web contenant une galerie d'images resp
   - Tablettes : 5 colonnes par 3 lignes (15)
   - Mobiles : 3 colonnes par 3 lignes (9)
 
-## Technologies Employées
+## Languages Employées
 
 - HTML pour la structure
 - CSS pour le style
