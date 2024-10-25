@@ -17,6 +17,6 @@ Ce projet consiste à concevoir une page web contenant une galerie d'images resp
 - CSS Grid pour la disposition de la galerie
 - Markdown pour le reedme
 
-## Lien vers le Référentiel GitHub :
-[Accéder au projet via github pages] (https://mcmt27.github.io/projet_html_css_R109/)
+## Lien vers le GitHub Pages :
+[Accéder au projet via github pages](https://mcmt27.github.io/projet_html_css_R109/)
 
