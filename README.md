@@ -1,6 +1,6 @@
 # Création d'une Galerie d'Images en Ligne
 
-Ce projet consiste à concevoir une page web contenant une galerie d'images responsive. Le but est de présenter un agencement soigné et dynamique des images, capable de s'adapter aux écrans de différentes tailles, comme ceux des ordinateurs, tablettes et téléphones. Le design s’inspire d'un modèle existant.
+Ce projet consiste à concevoir une page web contenant une galerie d'images responsive. Le but est de réaliser une copie d'une page déjà donnée et de l'adapter aux écrans de différentes tailles, comme ceux des ordinateurs, tablettes et téléphones.
 
 ## Caractéristiques du Projet
 
