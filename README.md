@@ -18,3 +18,5 @@ Ce projet consiste à concevoir une page web contenant une galerie d'images resp
 - Markdown pour le reedme
 
 ## Lien vers le Référentiel GitHub :
+[Accéder au projet])
+
